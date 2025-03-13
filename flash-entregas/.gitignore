@@ -1,2 +1,14 @@
+# Ignorar diretórios e arquivos irrelevantes
+*.log
+*.tmp
 node_modules/
-*.local
+public/
+firebase-debug.1.log
+firebase.json
+firestore.indexes.json
+firestore.rules
+firebase-functions/
+*.yarnrc
+*.gradle
+.vscode/
+*.gitconfig
